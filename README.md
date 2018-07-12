@@ -6,8 +6,9 @@
   - [ ] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome)
   - [ ] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
   - [ ] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
-- [ ] [Fast.ai](http://www.fast.ai/)
-- [ ] [Addressing Large Hadron Collider Challenges by Machine Learning](https://www.coursera.org/learn/hadron-collider-machine-learning)
+- [ ] [Practical Deep Learning for Coders (Fast.ai)](http://course.fast.ai/)
+- [ ] [Cutting Edge Deep Learning for Coders (Fast.ai)](http://course.fast.ai/part2.html) 
+- [ ] [Addressing Large Hadron Collider Challenges by Machine Learning (Coursera)](https://www.coursera.org/learn/hadron-collider-machine-learning)
 
 ## Books
 
